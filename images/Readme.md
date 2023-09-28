@@ -6,4 +6,4 @@ The assignment is a challenge from frontendmentor.io using html css and javascri
 
 ###
 Below is an image of the challenge
-![image of the project](/images/live%20saver%20capture.png)
+![image of the project](/images/screenshot.png)
